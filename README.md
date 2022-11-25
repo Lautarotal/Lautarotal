@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lautarotal
 - 👀 I’m interested in object oriented programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate on small projetcs that give me experience
 - 📫 How to reach me lautarotal@gmail.com
 
